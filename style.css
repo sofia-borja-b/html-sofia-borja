@@ -4,5 +4,24 @@
   margin-right: auto;
   filter: grayscale(10%) drop-shadow(5px 5px blue (0, 0, 0));
 }
+#titulo1 {
+  text-align: center;
+}
+#texto1 {
+  text-align: center;
+}
+#imagenes2 {
+  display: block;
+  margin-right: auto;
+}
+#imagenes3 {
+  display: block;
+  margin-left: auto;
+}
 
-#texto1];
+#titulo3 {
+  text-align: right;
+}
+#texto3 {
+  text-align: right;
+}
