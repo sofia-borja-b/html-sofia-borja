@@ -4,11 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: hsl(300, 61%, 83%);
 }
 
 header h1 {
-  background-color: #68ace7;
+  background-color: #d150e2;
   color: white;
   padding: 3rem 2rem;
   font-size: 3rem;
@@ -51,7 +51,6 @@ body p {
   border-radius: 0.5rem;
   padding: 1rem 1rem;
   cursor: pointer;
-  border: 1px solid #ccc;
   width: 70%;
   margin-left: auto;
   margin-right: auto;
@@ -95,5 +94,5 @@ footer a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  filter: grayscale(10%) drop-shadow(5px 5px blue (0, 0, 0));
+  filter: grayscale(10%) drop-shadow(5px 5px rgb(38, 38, 161) (0, 0, 0));
 }
